@@ -1,6 +1,8 @@
 MailView -- Visual email testing
 ================================
 
+**NOTE:** This is my personal version of mail_view, with some small tweaks for my preferences.
+
 Preview plain text and html mail templates in your browser without redelivering it every time you make a change.
 
 Install
